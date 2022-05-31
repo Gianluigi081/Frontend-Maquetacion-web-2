@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media(max-width:1200px) {
+
+
+    .wrap {
+        width: 95%;
+        margin: 0px auto;
+    }
+
+    #banner {
+        width: 94.3%;
+        margin-top: 20px;
+        margin-left: 2%
+    }
+
+    .cards {
+        width: 16.2%;
+        margin: 1.7%;
+    }
+
+    .cards p {
+        display: block;
+        width: 90%;
+        margin: 0px auto;
+        text-align: center;
+    }
+
+    #articles {
+        width: 63%;
+        float: left;
+        margin-left: 3%;
+    }
+
+    #articles article {
+        width: 94%;
+    }
+
+    #footer .wrap>div {
+        width: 24%;
+        margin-left: 5%;
+    }
+
+    #footer #browser img {
+        width: 14%;
+    }
+
+    #footer h5 {
+        font-size: 25px;
+    }
+}
+
+@media(max-width:1058px) {
+
+    #banner h1 {
+        margin-left: 8%;
+    }
+
+    .cards .category {
+        font-size: 17px;
+    }
+
+    .cards .description {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:986px) {
+    #banner h1 {
+        margin-left: 6%;
+    }
+
+    .cards {
+        width: 16.2%;
+        margin-right: 1.4%
+    }
+    #articles article {
+        width: 93%;
+    }
+
+    #footer .wrap > div {
+        width: 23%;
+        margin-left: 4.7%;
+    }
+}
+
+@media(max-width:920px){
+    
+    #banner h1{
+        width:90%;
+        font-size: 40px;
+        margin-left: 4%;
+    }
+    .cards {
+        width: 15.2%;
+        margin-right: 1.8%;
+    }
+    #lateral h3{
+        width: 90%;
+    }
+    #articles{
+        width: 58%;
+    }
+} */
+
+/* @media(max-width:1720px) {
+    #articles article {
+        width: 95%;
+    }
+}
+
+@media(max-width:1024px) {
+    #menu {
+        margin-right: 8%;
+    }
+
+    #menu ul li{
+        margin: 0px 12px 0px 15px;
+    }
+
+    .wrap {
+        width: 1024px;
+        height: 768px;
+    }
+} */
+
